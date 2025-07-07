@@ -1,0 +1,1 @@
+The system preprocesses leaf images, extracts features using pretrained CNNs (VGG16, VGG19, ResNet50), and classifies them using ML models like KNN, Random Forest, Naive Bayes, and Logistic Regression. Acting like a digital plant doctor, it delivers accurate disease diagnoses to support timely action by farmers.
